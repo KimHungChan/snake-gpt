@@ -1,6 +1,13 @@
 # Getting Started Snake-GPT
 
 
+## Quick View
+
+<img src="./src/resources/snake-gpt.png">
+
+[https://snake-gpt.netlify.app/#/](https://snake-gpt.netlify.app/)
+
+
 ## About the project
 
 Just a little project I spent a few evenings messing around on to see how far I could take ChatGPT and how easy it would be to make a game purely from generated code.
